@@ -25,5 +25,5 @@ Simply run:
   Typical range: 0.01 - 1.0
   
   
-
+![navi window](img/navi-panel.png)
 

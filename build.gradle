@@ -1,0 +1,12 @@
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.3'
+}
+
+
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = 'navigator.Main'
+

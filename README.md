@@ -1,4 +1,4 @@
-# A* algorithm visualised in JavaFX2
+# A* algorithm visualized in JavaFX2
 A TODO project for learning JavaFX
 
 # Installation

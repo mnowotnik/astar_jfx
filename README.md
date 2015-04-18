@@ -4,7 +4,8 @@ A TODO project for learning JavaFX
 # Installation
 
 Simply run:
-  gradlew run
+
+    gradlew run
   
 # Requirements:
 
@@ -24,6 +25,6 @@ Simply run:
   It is used to compute the chance of a link between two random nodes.
   Typical range: 0.01 - 1.0
   
-  
+## Screenshot
 ![navi window](img/navi-panel.png)
 

@@ -17,12 +17,13 @@ Simply run:
 
 - N
 
-  It is equal to the number of nodes.
+  This parameter is equal to the number of nodes.
   Typical range: 1 - 200
   
 - R
 
-  It is used to compute the chance of a link between two random nodes.
+  The 'R' parameter is used to compute the chance of
+  a link between two random nodes.
   Typical range: 0.01 - 1.0
   
 ## Screenshot

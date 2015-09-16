@@ -1,5 +1,6 @@
 # A* algorithm visualized in JavaFX2
-A TODO project for learning JavaFX
+
+A desktop application I made to learn some JavaFX.
 
 # Installation
 
